@@ -18,6 +18,8 @@ I'm Daniel Pimenta.
 >Twitter: https://twitter.com/dgpimenta82
 
 - ⚡ About:
->Graduated in Electronic Engineering, I like technology since I was young, because I worked with maintenance of microcomputers and networks for almost ten years, I was an IT trainee at Capgemini and I always studied subjects related to computing (Access , HTML, CSS, Delphi and C#). Although last years I have worked in the administrative area as a sector head in the Engineering Superintendence at the Port of Santos, I would like to change careers again and work in the area I have always wanted, which is Information Technology. At the moment I'm studying about pages and applications in HTML, CSS, JavaScript, Node.JS, React.Js and SQL.
-
-
+>Graduated in Electronic Engineering, I like technology since I was young.
+I worked with maintenance of microcomputers and networks for almost ten years, I was an IT trainee at Capgemini and I always studied subjects related to computing (HTML, CSS, Java, JavaScript, Delphi and C#). 
+Although last years I have worked in the administrative area as a Sector Head in the Engineering Superintendence at the Port of Santos, I would like to change careers again and work in the area I have always wanted, which is Information Technology.
+I have experience in developing pages in HTML, CSS and JavaScript and I'm currently studying ReactJS, React Native, TypeScript, Node.JS, SQL, Git and Github.
+My goal, currently, is to work as a Front-end Web Developer and after a while, with more experience, work as a Full-stack Developer.
